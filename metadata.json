@@ -1,0 +1,6 @@
+{
+  "name": "WinX7",
+  "description": "WinX7 - Free Fire Esports Tournament Platform with User App, Admin Panel, and Staff Panel",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
